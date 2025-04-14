@@ -59,6 +59,7 @@
 .skillsText.card {
     height: 350px;
     cursor: pointer;
+    height: 100%;
 }
 .skillsText img {
     width: 100%;
@@ -81,6 +82,9 @@
 }
 .skillsText:hover {
     border: 1px solid #008000;
+}
+.card {
+    height: 100%;
 }
 
 /* portfolio */

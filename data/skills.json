@@ -15,18 +15,37 @@
         "text": "Création d’applications React, création de composants et manipulation de leur état"
     },
     {
-        "image": "gestion-de-projet.png",
-        "title": "Gestion de projet",
-        "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet"
+        "image": "cy-se.png",
+        "title": "Cypress & Selenium",
+        "text": "Écriture de tests automatisés E2E et UI, gestion d’assertions, sélecteurs robustes"
     },
     {
-        "image": "optimisation-et-debug.png",
-        "title": "Optimisation et debug",
-        "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne"
+        "image": "postmanetapitesting.png",
+        "title": "Postman & API Testing",
+        "text": "Création et exécution de requêtes HTTP, tests fonctionnels et automatisés sur les endpoints"
     },
     {
-        "image": "test.png",
-        "title": "Test",
-        "title ": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API"
+        "image": "cicd-jenkins.png",
+        "title": "CI/CD – Jenkins & GitHub Actions",
+        "text": "Intégration continue de scénarios de test, déploiement automatique, suivi des pipelines"
+    },
+    {
+
+        "image": "testsfonctionnels.png",
+        "title": "Tests fonctionnels & recette",
+        "text": "Rédaction de plans de test, exécution manuelle, gestion des anomalies, cahiers de recette, stratégie de test"
+    },
+    {
+
+        "image": "cloud-monitoring.png",
+        "title": "Cloud & Monitoring (AWS)",
+        "text": "Utilisation de AWS CloudWatch pour suivre les erreurs et logs, compréhension des environnements cloud"
+    },
+    {
+
+        "image": "agile-scrum.png",
+        "title": "Méthodologie Agile / Scrum",
+        "text": "Collaboration avec l’équipe agile, participation aux cérémonies Scrum, priorisation des tests selon les sprints."
     }
+
 ]

@@ -1,20 +1,20 @@
 [
     {
-        "image": "image1.png",
+        "image": "booki.png",
         "title": "Booki",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "text": "Intégration d’un site vitrine responsive en HTML/CSS à partir d’une maquette Figma, selon des spécifications fonctionnelles précises.",
+        "link": "https://github.com/miracalagass/booki-starter-code"
     },
     {
-        "image": "image2.png",
+        "image": "sophieBluel.png",
         "title": "Mon Vieux grimoire",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "text": "Développement d’un site dynamique en JavaScript avec gestion d’événements, communication API et interface d’administration sécurisée.",
+        "link": "https://github.com/miracalagass/Portfolio-architecte-sophie-bluel-master-main"
     },
     {
-        "image": "image3.png",
+        "image": "kasa.png",
         "title": "Kasa",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "text": "Développement complet d’une application React responsive à partir de maquettes Figma, avec gestion des routes, composants dynamiques et tests unitaires.",
+        "link": "https://github.com/miracalagass/kasa"
     }
 ]
