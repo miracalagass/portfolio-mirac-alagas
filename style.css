@@ -58,21 +58,13 @@
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
-@media (max-width: 991px) {
+@media (max-width: 991px), (max-width: 768px) {
     .imageAboutPage{
         width: 75%;
         margin-left: 12%;
         margin-bottom: 12%;
     }
 }
-
-@media (max-width: 768px) {
-    .imageAboutPage {
-        width: 75%;
-        margin-left: 12%;
-        margin-bottom: 12%;
-    }
-  }
 
 /* skills */
 .skillsText.card {
