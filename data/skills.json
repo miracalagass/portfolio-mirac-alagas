@@ -1,49 +1,58 @@
 [
     {
         "image": "html-css.jpg",
+        "alt": "html-css",
         "title": "HTML - CSS",
         "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS"
     },
     {
         "image": "js.jpg",
+        "alt": "javascript",
         "title": "javascript",
         "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires"
     },
     {
         "image": "react.jpg",
+        "alt": "react",
         "title": "React",
         "text": "Création d’applications React, création de composants et manipulation de leur état"
     },
     {
         "image": "cy-se.png",
+        "alt": "cypress and selenium",
         "title": "Cypress & Selenium",
         "text": "Écriture de tests automatisés E2E et UI, gestion d’assertions, sélecteurs robustes"
     },
     {
         "image": "postmanetapitesting.png",
+        "alt": "ostman and api testing",
         "title": "Postman & API Testing",
         "text": "Création et exécution de requêtes HTTP, tests fonctionnels et automatisés sur les endpoints"
     },
     {
         "image": "cicd-jenkins.png",
+        "alt": "jenkins",
         "title": "CI/CD – Jenkins & GitHub Actions",
         "text": "Intégration continue de scénarios de test, déploiement automatique, suivi des pipelines"
     },
     {
 
         "image": "testsfonctionnels.png",
+        "alt": "tests fonctionnels",
         "title": "Tests fonctionnels & recette",
         "text": "Rédaction de plans de test, exécution manuelle, gestion des anomalies, cahiers de recette, stratégie de test"
     },
     {
 
         "image": "cloud-monitoring.png",
+        "alt": "cloud monitoring",
         "title": "Cloud & Monitoring (AWS)",
         "text": "Utilisation de AWS CloudWatch pour suivre les erreurs et logs, compréhension des environnements cloud"
     },
     {
 
         "image": "agile-scrum.png",
+        "alt": "agile scrum",
         "title": "Méthodologie Agile / Scrum",
         "text": "Collaboration avec l’équipe agile, participation aux cérémonies Scrum, priorisation des tests selon les sprints."
     }

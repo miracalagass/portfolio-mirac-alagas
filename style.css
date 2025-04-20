@@ -18,9 +18,8 @@
 }
 
 /* display background dark color on navbar scroll */
-.navbarScroll.navbarDark {
-    background-color: #5b5b5b;
-}
+    
+
 
 /* hero background image */
 .bgimage {
@@ -29,6 +28,11 @@
     background: url("images/image1.jpg");
     background-size: cover;
     position: relative;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.navbar.navbar-expand-lg.fixed-top.navbar-dark.navbarScroll {
+    background-color: rgba(0, 0, 0, 0.5);
 }
 /* text css above hero image*/
 .hero_title {
@@ -43,7 +47,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
+    color: #eeeeee;
 }
 
 /* about */
@@ -54,6 +58,21 @@
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
+@media (max-width: 991px) {
+    .imageAboutPage{
+        width: 75%;
+        margin-left: 12%;
+        margin-bottom: 12%;
+    }
+}
+
+@media (max-width: 768px) {
+    .imageAboutPage {
+        width: 75%;
+        margin-left: 12%;
+        margin-bottom: 12%;
+    }
+  }
 
 /* skills */
 .skillsText.card {

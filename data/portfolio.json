@@ -1,18 +1,21 @@
 [
     {
         "image": "booki.png",
+        "alt": "booki",
         "title": "Booki",
         "text": "Intégration d’un site vitrine responsive en HTML/CSS à partir d’une maquette Figma, selon des spécifications fonctionnelles précises.",
         "link": "https://github.com/miracalagass/booki-starter-code"
     },
     {
         "image": "sophieBluel.png",
+        "alt": "sophie bluel",
         "title": "Mon Vieux grimoire",
         "text": "Développement d’un site dynamique en JavaScript avec gestion d’événements, communication API et interface d’administration sécurisée.",
         "link": "https://github.com/miracalagass/Portfolio-architecte-sophie-bluel-master-main"
     },
     {
         "image": "kasa.png",
+        "alt": "kasa",
         "title": "Kasa",
         "text": "Développement complet d’une application React responsive à partir de maquettes Figma, avec gestion des routes, composants dynamiques et tests unitaires.",
         "link": "https://github.com/miracalagass/kasa"
