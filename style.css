@@ -103,6 +103,10 @@
     text-align: center;
 }
 
+.card-img-top{
+    width: 100%;
+}
+
 /* contact */
 .contactColumn {
     display: flex;
